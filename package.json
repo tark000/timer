@@ -1,0 +1,24 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tark000/timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tark000/timer/issues"
+  },
+  "homepage": "https://github.com/tark000/timer#readme"
+}
